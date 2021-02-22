@@ -1,0 +1,18 @@
+name: "Documentation"
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  generate_docs_job:
+    runs-on: ubuntu-latest
+    name: A job to generate docs
+    steps:
+      - uses: actions/checkout@v1
+      - uses: nikeee/docfx-action@v1.0.0
+        name: Build Documentation
+        with:
+          args: docfx_project/docfx.json
