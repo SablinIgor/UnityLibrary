@@ -21,6 +21,18 @@ namespace UnityUtils
         public void AddValues(int a, int b) {
             c = a + b;
         }
+        
+        /// <summary>
+        /// Multiply two integers and returns the result.
+        /// </summary>
+        /// <param name="a">A int precision number.</param>
+        /// <param name="b">A int precision number.</param>
+        /// <returns>
+        /// The multiply of two integers.
+        /// </returns>
+        public void MultiplyValues(int a, int b) {
+            c = a * b;
+        }        
 
         /// <summary>
         /// Generate random number.
