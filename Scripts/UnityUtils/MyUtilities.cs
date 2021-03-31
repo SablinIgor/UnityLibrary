@@ -23,7 +23,7 @@ namespace UnityUtils
         }
 
         /// <summary>
-        /// Generate random number.
+        /// Generate random number v.2.
         /// </summary>
         /// <param name="min">A lower limit of range.</param>
         /// <param name="max">A upper limit of range.</param>
