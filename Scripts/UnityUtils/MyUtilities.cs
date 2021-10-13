@@ -9,6 +9,11 @@ namespace UnityUtils
     public class MyUtilities {
 
         public int c;
+        
+        /// <summary>
+        /// Something useful.
+        /// </summary>        
+        public int d;
 
         /// <summary>
         /// Adds two integers and returns the result.
