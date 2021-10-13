@@ -9,6 +9,10 @@ namespace UnityUtils
     public class MyUtilities {
 
         public int c;
+        
+        /// <summary>
+        /// Something useful.
+        /// </summary>        
         public int d;
 
         /// <summary>
