@@ -8,7 +8,7 @@ namespace UnityUtils
     /// </summary>
     public class MyUtilities {
 
-        public int c;
+        public int c2;
         
         /// <summary>
         /// Something useful.
