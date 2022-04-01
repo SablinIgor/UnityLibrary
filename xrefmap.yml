@@ -1,0 +1,72 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: UnityUtils
+  name: UnityUtils
+  href: api/UnityUtils.html
+  commentId: N:UnityUtils
+  fullName: UnityUtils
+  nameWithType: UnityUtils
+- uid: UnityUtils.CharacterController
+  name: CharacterController
+  href: api/UnityUtils.CharacterController.html
+  commentId: T:UnityUtils.CharacterController
+  fullName: UnityUtils.CharacterController
+  nameWithType: CharacterController
+- uid: UnityUtils.MyUtilities
+  name: MyUtilities
+  href: api/UnityUtils.MyUtilities.html
+  commentId: T:UnityUtils.MyUtilities
+  fullName: UnityUtils.MyUtilities
+  nameWithType: MyUtilities
+- uid: UnityUtils.MyUtilities.AddValues(System.Int32,System.Int32)
+  name: AddValues(Int32, Int32)
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_AddValues_System_Int32_System_Int32_
+  commentId: M:UnityUtils.MyUtilities.AddValues(System.Int32,System.Int32)
+  fullName: UnityUtils.MyUtilities.AddValues(System.Int32, System.Int32)
+  nameWithType: MyUtilities.AddValues(Int32, Int32)
+- uid: UnityUtils.MyUtilities.AddValues*
+  name: AddValues
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_AddValues_
+  commentId: Overload:UnityUtils.MyUtilities.AddValues
+  isSpec: "True"
+  fullName: UnityUtils.MyUtilities.AddValues
+  nameWithType: MyUtilities.AddValues
+- uid: UnityUtils.MyUtilities.c2
+  name: c2
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_c2
+  commentId: F:UnityUtils.MyUtilities.c2
+  fullName: UnityUtils.MyUtilities.c2
+  nameWithType: MyUtilities.c2
+- uid: UnityUtils.MyUtilities.d3
+  name: d3
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_d3
+  commentId: F:UnityUtils.MyUtilities.d3
+  fullName: UnityUtils.MyUtilities.d3
+  nameWithType: MyUtilities.d3
+- uid: UnityUtils.MyUtilities.GenerateRandom(System.Int32,System.Int32)
+  name: GenerateRandom(Int32, Int32)
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_GenerateRandom_System_Int32_System_Int32_
+  commentId: M:UnityUtils.MyUtilities.GenerateRandom(System.Int32,System.Int32)
+  fullName: UnityUtils.MyUtilities.GenerateRandom(System.Int32, System.Int32)
+  nameWithType: MyUtilities.GenerateRandom(Int32, Int32)
+- uid: UnityUtils.MyUtilities.GenerateRandom*
+  name: GenerateRandom
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_GenerateRandom_
+  commentId: Overload:UnityUtils.MyUtilities.GenerateRandom
+  isSpec: "True"
+  fullName: UnityUtils.MyUtilities.GenerateRandom
+  nameWithType: MyUtilities.GenerateRandom
+- uid: UnityUtils.MyUtilities.MultiplyValues(System.Int32,System.Int32)
+  name: MultiplyValues(Int32, Int32)
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_MultiplyValues_System_Int32_System_Int32_
+  commentId: M:UnityUtils.MyUtilities.MultiplyValues(System.Int32,System.Int32)
+  fullName: UnityUtils.MyUtilities.MultiplyValues(System.Int32, System.Int32)
+  nameWithType: MyUtilities.MultiplyValues(Int32, Int32)
+- uid: UnityUtils.MyUtilities.MultiplyValues*
+  name: MultiplyValues
+  href: api/UnityUtils.MyUtilities.html#UnityUtils_MyUtilities_MultiplyValues_
+  commentId: Overload:UnityUtils.MyUtilities.MultiplyValues
+  isSpec: "True"
+  fullName: UnityUtils.MyUtilities.MultiplyValues
+  nameWithType: MyUtilities.MultiplyValues
