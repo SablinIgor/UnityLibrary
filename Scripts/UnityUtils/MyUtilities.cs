@@ -13,7 +13,7 @@ namespace UnityUtils
         /// <summary>
         /// Something useful.
         /// </summary>        
-        public int d;
+        public int d3;
 
         /// <summary>
         /// Adds two integers and returns the result.
